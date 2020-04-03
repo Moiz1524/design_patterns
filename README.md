@@ -6,3 +6,4 @@
   -> Basics of Ruby
   -> Classes, Objects, Instance and Class methods, Modules and instantiation of classes
 - Linked-in course link: https://www.linkedin.com/learning/programming-foundations-design-patterns-2
+- Resource book link: https://w3sdesign.com/GoF_Design_Patterns_Reference0100.pdf
