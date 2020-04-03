@@ -1,0 +1,8 @@
+- All class files are named as the pattern they implement. Run them as: For example -> ruby lib/strategy_pattern.rb from project root directory
+- These examples contain pure ruby classes and objects implementation.
+- They all have descriptions included as comments on top. So read them and have a better understanding
+- Before scratching, good understanding of the below concepts is mandatory because they act as pre-requisites:
+  -> OOP concepts and architecture like Abstraction, Polymorphism, Inheritance, Encapsulation and Composition as well
+  -> Basics of Ruby
+  -> Classes, Objects, Instance and Class methods, Modules and instantiation of classes
+- Linked-in course link: https://www.linkedin.com/learning/programming-foundations-design-patterns-2
